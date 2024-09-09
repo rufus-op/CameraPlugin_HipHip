@@ -1,4 +1,4 @@
-import 'package:bubbly_camera/bubbly_camera.dart';
+import 'package:bubbly_camera/hiphop_camera.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
